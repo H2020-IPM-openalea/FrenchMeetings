@@ -1,17 +1,36 @@
 # IPM-Décision meeting report
 
-## Réunion du 24/04/2020
+## Reunion du 11/05/2020: IPM-Decision Format
 
-### **Présent :**
+### **Présent**
+
+Tor-Einar Skog, Christophe Pradal, Marc Labadie
+
+### **Objectifs**
+
+Liens vers le documents: <https://github.com/H2020-IPM-openalea/formats/blob/master/DSS_metadata/fields.md>
+
+* Discussion sur les formats (champs) des trois modèles DSS, OpenAlea, Crop2ML. Etude comparative des champs des trois modèles.
+* Identification d'un formalisme pour les trois modèles avec des champs commun.
+
+### **Discussions**
+
+Ce qui en ressort est une adaptation mixte entre format DSS model et  OpenAlea.
+
+> **NOTE:**  Tor-Einar devrait nous faire un retour avec une proposition de format
+
+## Réunion du 24/04/2020: IPM-Decision, Réunion debut du post doc de Marc
+
+### **Présent** 
 
 Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 
-### **Objectifs :**
+### **Objectifs**
 
 * Réunion de rentrée discussion sur le projet et les choses à mettre en place
 * RDV à venir : Annual IPM meeting 27-29 avril.
 
-### **Discussions:**
+### **Discussions**
 
 * **_Descriptif du post :_**
 
@@ -33,10 +52,13 @@ Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 
 ### Todo (Marc)
 
-* Prise de connaissance des documents existant
-  * Lecture bibliographique (Echap 2013, Garrin et al 2015)
-  * Powerpoint 2013 et 2016
-  * Participation Annual meeting
+* [ ] Prise de connaissance des documents existant
+  * [ ] Lecture bibliographiques
+    * [ ] Echap 2013
+    * [ ] Garin et al 2014
+    * [X] Powerpoint 2013 et 2016
+
+  * [X] Participation Annual meeting
     * Lundi 13h30-15h00: IPM Decisions - Project update (Chair: Neil Paveley (ADAS))
     * Mardi 10h00-11h30: WP2 & 3 joint session - API Developing and testing Chair: Berit Nordstrog (NIBIO)
     * Mardi 14h00-15h30: WP 2, 3 & 4 joint session - DSS data input and output requirements Chair: Dave Skirvin (ADAS)
