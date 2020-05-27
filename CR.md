@@ -2,18 +2,18 @@
 
 ## Reunion du 11/05/2020: IPM-Decision Format
 
-### **Présent**
+### Présent
 
 Tor-Einar Skog, Christophe Pradal, Marc Labadie
 
-### **Objectifs**
+### Objectifs
 
 Liens vers le documents: <https://github.com/H2020-IPM-openalea/formats/blob/master/DSS_metadata/fields.md>
 
 * Discussion sur les formats (champs) des trois modèles DSS, OpenAlea, Crop2ML. Etude comparative des champs des trois modèles.
 * Identification d'un formalisme pour les trois modèles avec des champs commun.
 
-### **Discussions**
+### Discussions
 
 Ce qui en ressort est une adaptation mixte entre format DSS model et  OpenAlea.
 
@@ -21,32 +21,32 @@ Ce qui en ressort est une adaptation mixte entre format DSS model et  OpenAlea.
 
 ## Réunion du 24/04/2020: IPM-Decision, Réunion debut du post doc de Marc
 
-### **Présent** 
+### Présent
 
 Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 
-### **Objectifs**
+### Objectifs
 
 * Réunion de rentrée discussion sur le projet et les choses à mettre en place
 * RDV à venir : Annual IPM meeting 27-29 avril.
 
-### **Discussions**
+### Discussions
 
-* **_Descriptif du post :_**
+* _Descriptif du poste :_
 
   * Post doc très informatique, simplifier les modèles, réfléchir une structure informatique, utilisation de variable d’entrer, variable globale
   * Mise en place des modèles en plateformes. Mise en disposition des modèles. Comparaison avec différente spécificités
 
-* **_Tâche :_**
+* _Tâches :_
 
   * Normaliser les données météo. WP2 interphase standardisation plateforme.
   * Formalisme des modèles, catalogue du modèle (très techniques), donnée, métadonnées météo en place. Catalogue Affichage des modèles
   * Définir des standards interaction avec eux. (Faire des container, développement logiciel)
-  * A partir du modèle IPM interface unifié organisation modèle plante maladie. Application. 4 -5 modèle IPM de montrer que tu peux faire un modèle simplifier.
+  * A partir du modèle IPM interface unifié organisation modèle plante maladie. 4 -5 modèle IPM de montrer que tu peux faire un modèle simplifier.
 
-* **_Publications envisager :_**
+* _Publications envisager :_
 
-    1. Papier bio echap à finir Reprendre l’existant l’ECHAP (2010-2012). Archi et épidémie colorant sur 3 ans modèle d’interception
+    1. Papier bio ECHAP à finir Reprendre l’existant l’ECHAP (2010-2012). Archi et épidémie colorant sur 3 ans modèle d’interception
     2. papier septo3D multi-échelle modèle de plantes 3D
     3. papier echap logiciel
 
