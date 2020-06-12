@@ -1,4 +1,144 @@
+---
+ms.date: 06/11/2020
+ms.author: Marc Labadie
+---
+
 # IPM-Décision meeting report
+
+## Reunion du 11/06/2020: Discussion sur le projet IPM
+
+### Présent
+
+Christian Fournier, Christophe Pradal, Marc LABADIE
+
+### Objectifs
+Discussion sur le projet
+
+### Discussion
+
+* deliverable:
+
+  * faire un schema integration autre maladie à partir de open alea
+  * modèle aide à la decision, données climatique - maladie - pheno si possible.
+
+* Papier
+2 papiers model:
+  * papier IPM (format, donnée standardiser), à lier avec OpenAlea
+  * ECHAP 2013:
+    * publi logiciel
+    * publi en cours
+
+Christophe reserver pour le papier.
+
+* modèle à prévoir
+* simple wheat
+* modèle maladie
+
+## tache
+
+Prendre ALEP modifier simplifier interface (ALEP sera appelé EPI3D)
+
+* faire un simple wheat (contrôle tallage, scenescence)
+* interface maladie
+
+Christian et Christophe
+
+* [ ] mise à jour ALEP passage en python 3 et sur Github
+* [ ]  modèle simple céréales
+* [ ] liste des modèle disponible
+
+Marc:
+
+* [ ] en attente de passage des modèles en python 3 et de la liste des modèles
+* [ ] regarder les modèles présent dans ALEP
+* [ ] Réflexion sur un interface simple des modèles
+* [ ] biblio
+
+## Reunion du 05/06/2020: IPM-Decision postdoc meeting
+
+### Présenton
+
+Corinne Robert, christian Fournier, Christophe Pradal, Marc Labadie
+
+### Objectif
+
+* Discussion sur le projet IPM-Decision (post doc Marc) -- point d'information & suite
+
+### Discussions
+
+* Délivrable: (en attente d'envoie par christian)
+
+* repartition du temps de marc approximatif
+  * 6 mois mi temps avec Christophe sur WP2
+  * 6 mois finalisation des modèles ECHAP, septo3D.
+
+ECHAP: simplifier les modèles documentation
+reprendre ALEP3D/SEPTO3D/RUST3D+RUSTSEPTO3D+VIGNE=EPI3D, simplifier réimplémenter
+
+objectif: le modèle simplifier cropmodel comparaison avec un autre modèle simplifier.
+
+Question Corinne: Garder architecture garder la senescence.
+
+Part: quel est l'impact de le l'architecture sur l'épidémie
+
+_3 modèles:_
+
+* simplifier
+* cohorte
+* FSPM
+
+_IPM:_
+Travail sur 1 selection de DSS
+
+Distribution de classe d'age pour la maladie, pas de retroaction de la maladie
+
+### Publications
+
+* publi ECHAP 2013, publi interception analyse de sensibilité. Tout echap très gros.
+* publi logiciel ECHAP (tous les modèles soit publié, comment faire dialogué les modèles)
+* publi ADAS
+
+### Tâches définies
+
+* [ ] simplifier modèle (Utilisation, calcul, hypothèse), faire un bilan Regarder tous les paramètres, Quelles sont les leviers a actionner, (pb paramétrage infini)
+
+### Questions
+Comment rendre le modèle plus simple en utilisation?
+Quels sont les paramètres nécessaire aux utilisateur? (evolution de la surface au cours du temps)
+
+1. Quel est l'impact de l'architecture sur la maladie? (modèle maniable? mélange maladie, sensibilité de la surface foliare. mettre les blé en mélange? )
+2. Modèle arriverait en compétition des isolats d'une maladie, histoire selection adaptation.
+
+Modèle possible modèle classe d'age en couche de corinne avec paramètres de modulation des paramètres maladie avec ou sans retro-action (retro-action sur la vitesse de développement (surface verte))
+Modèle architecturale classe d'age, vitesse de développement, champignon, variétale
+
+Corinne quel entrée quel sortie?
+Dynamic de la mise en place de couvert impact la maladie avec des variables d'entré, de sortie pour une utilisation simplifier
+
+### Résumer christophe pradal
+Voici mon résumé:
+
+1. Travailler sur les déliverables:
+
+* représenter les modèles/données/assemblage en json-ld
+* bibliothèque Python pour transformer/appeler/executer les services de la plateforme IPM
+
+2. Modèle Epi3D (<https://github.com/openalea-incubator/alep>)
+
+a. Ressuciter le modèle (install, documentation, tutorial)
+
+b. définir une interface simple pour piloter le modèle (septo)
+
+* comparer le même modèle en SEIR ou architecturé
+
+c. possibilité de simplifier l'architecture:
+
+* paramètres: simple wheat (archi mais avec paramètres simplifié)
+* representation: prendre en compte l'archi mais de façon implicite (surface foliaire / classe age)
+* full: mixture
+
+Une question me reste:
+Est-ce qu'on peut aussi profiter de la période pour finaliser un travail qui serait "presque" fini?
 
 ## Reunion du 11/05/2020: IPM-Decision Format
 
@@ -54,7 +194,7 @@ Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 
 * [ ] Prise de connaissance des documents existant
   * [ ] Lecture bibliographiques
-    * [ ] Echap 2013
+    * [x] Echap 2013
     * [ ] Garin et al 2014
     * [X] Powerpoint 2013 et 2016
 
