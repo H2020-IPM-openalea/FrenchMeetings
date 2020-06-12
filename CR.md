@@ -2,8 +2,6 @@
 ms.date: 06/12/2020
 ---
 
-<!-- TOC depthFrom:2 depthTo:2 -->autoauto- [Reunion du 11/06/2020: Discussion sur le projet IPM](#reunion-du-11062020-discussion-sur-le-projet-ipm)auto- [Reunion du 05/06/2020: IPM-Decision postdoc meeting](#reunion-du-05062020-ipm-decision-postdoc-meeting)auto- [Reunion du 11/05/2020: IPM-Decision Format](#reunion-du-11052020-ipm-decision-format)auto- [Réunion du 24/04/2020: IPM-Decision, Réunion debut du post doc de Marc](#réunion-du-24042020-ipm-decision-réunion-debut-du-post-doc-de-marc)autoauto<!-- /TOC -->
-
 # IPM-Décision meeting report
 
 ## Reunion du 11/06/2020: Discussion sur le projet IPM
