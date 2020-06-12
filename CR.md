@@ -1,7 +1,8 @@
 ---
-ms.date: 06/11/2020
-ms.author: Marc Labadie
+ms.date: 06/12/2020
 ---
+
+<!-- TOC depthFrom:2 depthTo:2 -->autoauto- [Reunion du 11/06/2020: Discussion sur le projet IPM](#reunion-du-11062020-discussion-sur-le-projet-ipm)auto- [Reunion du 05/06/2020: IPM-Decision postdoc meeting](#reunion-du-05062020-ipm-decision-postdoc-meeting)auto- [Reunion du 11/05/2020: IPM-Decision Format](#reunion-du-11052020-ipm-decision-format)auto- [Réunion du 24/04/2020: IPM-Decision, Réunion debut du post doc de Marc](#réunion-du-24042020-ipm-decision-réunion-debut-du-post-doc-de-marc)autoauto<!-- /TOC -->
 
 # IPM-Décision meeting report
 
@@ -12,6 +13,7 @@ ms.author: Marc Labadie
 Christian Fournier, Christophe Pradal, Marc LABADIE
 
 ### Objectifs
+
 Discussion sur le projet
 
 ### Discussion
@@ -34,7 +36,7 @@ Christophe reserver pour le papier.
 * simple wheat
 * modèle maladie
 
-## tache
+### tache
 
 Prendre ALEP modifier simplifier interface (ALEP sera appelé EPI3D)
 
@@ -103,6 +105,7 @@ Distribution de classe d'age pour la maladie, pas de retroaction de la maladie
 * [ ] simplifier modèle (Utilisation, calcul, hypothèse), faire un bilan Regarder tous les paramètres, Quelles sont les leviers a actionner, (pb paramétrage infini)
 
 ### Questions
+
 Comment rendre le modèle plus simple en utilisation?
 Quels sont les paramètres nécessaire aux utilisateur? (evolution de la surface au cours du temps)
 
@@ -116,6 +119,7 @@ Corinne quel entrée quel sortie?
 Dynamic de la mise en place de couvert impact la maladie avec des variables d'entré, de sortie pour une utilisation simplifier
 
 ### Résumer christophe pradal
+
 Voici mon résumé:
 
 1. Travailler sur les déliverables:
@@ -172,19 +176,19 @@ Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 
 ### Discussions
 
-* _Descriptif du poste :_
+* Descriptif du poste :
 
   * Post doc très informatique, simplifier les modèles, réfléchir une structure informatique, utilisation de variable d’entrer, variable globale
   * Mise en place des modèles en plateformes. Mise en disposition des modèles. Comparaison avec différente spécificités
 
-* _Tâches :_
+* Tâches :
 
   * Normaliser les données météo. WP2 interphase standardisation plateforme.
   * Formalisme des modèles, catalogue du modèle (très techniques), donnée, métadonnées météo en place. Catalogue Affichage des modèles
   * Définir des standards interaction avec eux. (Faire des container, développement logiciel)
   * A partir du modèle IPM interface unifié organisation modèle plante maladie. 4 -5 modèle IPM de montrer que tu peux faire un modèle simplifier.
 
-* _Publications envisager :_
+* Publications envisager :
 
     1. Papier bio ECHAP à finir Reprendre l’existant l’ECHAP (2010-2012). Archi et épidémie colorant sur 3 ans modèle d’interception
     2. papier septo3D multi-échelle modèle de plantes 3D
@@ -192,10 +196,10 @@ Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 
 ### Todo (Marc)
 
-* [ ] Prise de connaissance des documents existant
-  * [ ] Lecture bibliographiques
+* [x] Prise de connaissance des documents existant
+  * [x] Lecture bibliographiques
     * [x] Echap 2013
-    * [ ] Garin et al 2014
+    * [x] Garin et al 2014
     * [X] Powerpoint 2013 et 2016
 
   * [X] Participation Annual meeting
@@ -206,4 +210,4 @@ Christophe Pradal, Christian Fournier, Corrine Robert, Marc Labadie
 ### Questions
 
 * Il serait bien de ce prévoir une réunion le 4 mai afin de définir les différentes tâche que je dois réaliser, au moins pour me lancer sur le postdoc
-* Avez vous réussi a télécharger les vidéos de présentation ainsi que les présentations? J'aimerai les garder afin de me les repasser si necessaire pour bien comprendre le projet.
+* Avez vous réussi a télécharger les vidéos de présentation ainsi que les présentations? J'aimerai les garder afin de me les repasser si nécessaire pour bien comprendre le projet.
