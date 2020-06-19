@@ -1,9 +1,28 @@
 ---
-ms.date: 06/12/2020
+ms.date: 06/19/2020
 ---
 
 # IPM-Décision meeting report
 
+## Reunion du 17/06/2020: WP2- Réunion sur le amélioration du schéma (JSON-LD)
+
+### Présent
+
+Tor-Einar, Christophe Pradal, Marc LABADIE
+
+### Objectif
+
+* Amélioration communication entre model utilisation de JSON-LD pour définir un schema. 
+
+### Discussion
+
+* Proposition d'un schema en JSON-LD à Tor-Einar afin d'avoir un standard entre les modèles. Sur la base de codemeta-data et schema.org 
+* Cette proposition participera au WP3 et permettra une communication entre les modèles simplifié.
+
+### Tâches
+
+* [ ] Proposer un schema JSON-LD  permettant de liér les différents modèle. (pour le 16 juillet 2020)
+  
 ## Reunion du 11/06/2020: Discussion sur le projet IPM
 
 ### Présent
