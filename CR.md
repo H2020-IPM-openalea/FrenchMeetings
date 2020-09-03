@@ -1,8 +1,60 @@
 ---
-ms.date: 06/19/2020
+ms.date: 09/03/2020
 ---
 
 # IPM-Décision meeting report
+
+## Reunion du 03/09/2020: WP3 Reunion Planning IPM
+
+### Présent
+
+Christian Fournier, Christophe Pradal, Marc Labadie
+
+### Objectif
+Definir le plan d'action pour le projet IPM
+
+### Tache
+
+1. Définir un use case
+
+1.1 Modèle simple package/node pur Python
+
+* permet de tester toute la chaine simplement (import / export openalea/IPM)
+* Export au format JSON-LD
+* creation dynamique de web service
+* déploiment docker/IPM
+
+1.2 Use case complex
+
+* septo/wheat
+* modèle composite qui permet de tester l'assemblage
+* plante simplifiée (LAI? voir avec Corinne)
+* définition du schéma intégration
+* extension à une version simplifiée d'ECHAP?
+
+* Schema d'integration de Guillaume (ALEP) et de Corinne
+
+2. Import / Export IPM
+
+2.1 Export vers IPM
+* schéma JSON-LD
+* execution web service
+* ...
+
+2.2 Import d'IPM
+* execution d'un web service en tant que neoud OpenAlea
+* gestion données (météo)
+
+2.3 Implementatio d'un tuto
+
+PS: Voir les déliverables...
+
+>**NOTE**: 
+> * Pour Visualea: Dans la console ou le .bashrc taper export QT_API_VERSION=2
+> * environement description: qt4, Pyqt (qtconsole 4.3)
+> * conda installnumpy, pandas, alinea.caribu, openalea.plantgl, matplotlib
+> echap et weather en mode develop (gforge INRIA) + copie du sous module wheat depuis adel dans alep
+> openalea.mtg à partir de git mode install conda cassé
 
 ## Reunion du 17/06/2020: WP2- Réunion sur le amélioration du schéma (JSON-LD)
 
