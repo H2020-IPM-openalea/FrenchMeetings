@@ -15,6 +15,7 @@ FrenchMeeting contains:
 
 **Meeting date:**
 
+* 09/09/2020: WP2 format metadata Json-LD
 * 03/09/2020: WP3 Reunion Planning IPM et organisation du travail
 * 17/06/2020: WP2 - Réunion sur le amélioration du schéma proposition JSON-LD
 * 11/06/2020: Discussion sur le projet IPM

@@ -4,6 +4,34 @@ ms.date: 09/03/2020
 
 # IPM-Décision meeting report
 
+## Reunion du 09/09/2020: WP2 format metadata Json-LD
+
+### Présent
+
+Tor-Einar, Christophe Pradal, Marc Labadie
+
+### Objectif
+Discution sur le formats JSON-LD, reponse au interrogation de Tor-Einar
+
+### Discussion
+
+Le format JSON-LD a des avantages mais ne seras peut etre pas utilise dans le contexte IPM car
+VIPS est un object base sur Json schema il faudrait pouvoir transformer tous les schema de VIPS en JSON-LD?
+
+Tor vois bien l'utilite du JSON-ld mais il faut faire des preuves.
+
+### Tache
+Des Tasks nous ont ete assigne durant la reunion via [JIRA](https://nibio.atlassian.net/)
+
+* [Task 1](https://nibio.atlassian.net/jira/software/c/projects/IDEC/issues/IDEC-117?filter=allissues): Create Json schema with Json-ld integrated for DSS and DSS_model
+
+* [Task 2](https://nibio.atlassian.net/jira/software/c/projects/IDEC/issues/IDEC-118?filter=allissues) : Create IPM DSS compatible web service for OpenAlea
+
+### Demande/ Questions / Remarque
+
+* Tor aimerai que l'on mette rapidement un model openalea sur VIPS
+* Les models et les donnees meteo sont disponible et utilisable
+
 ## Reunion du 03/09/2020: WP3 Reunion Planning IPM
 
 ### Présent
