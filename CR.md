@@ -80,12 +80,12 @@ Definir le plan d'action pour le projet IPM et organisation du travail
 > * environement description: 
 >   * qt4, Pyqt, (qtconsole 4.3)
 > * conda install: 
->   * numpy, pandas, alinea.caribu, openalea.plantgl
+>   * numpy (1.14 max pour rpy2 sous linux), pandas, alinea.caribu, openalea.plantgl,scipy, rpy2,alinea.astk, pvlib-python, openalea.sconsx
 > * pip install: matplotlib (conflit avec conda)
 > * python setup.py develop (en mode develop): 
->    * echap ,weather  (gforge INRIA) + copie du sous module wheat depuis adel dans alep
+>    * echap ,weather,septo3d,popdrops  (gforge INRIA) 
 > * python setup.py install a partir de git: 
->   * openalea.mtg, astk, adel 
+>   * openalea.mtg, astk (plutot cavec conda), adel 
 
 ### Organisation du travail
 * Une fois par semaine (le jeudi) Marc ou christian se retrouve soit a INRAE soit au CIRAD pour travailler ensemble sur le projet 
