@@ -1,8 +1,34 @@
 ---
-ms.date: 09/03/2020
+ms.date: 21/09/2020
 ---
 
 # IPM-Décision meeting report
+## Travail avec Christian le 24/09/2020
+
+## Tache:
+* agroservice:
+Dans agroservice fait avec class bioservice une class Ipm ON RENVOIE UN PANDAS DATA FRAME EN RESTANT PROCHE DU SWAGGER ipm
+
+* Weatherdata
+Class Weather DATA Extraction 
+Panda DANTAfRAME GERE PY UNIT ;
+
+## Reunion du 21/09/2020: Point d'information IPM
+
+### Présent
+
+Christophe Pradal, Christian Fournier, Marc Labadie
+
+### Objectif
+Point d'avancement IPM, weatherdata package
+
+### Discussion
+
+* Utilisation de py_Unit pour convertisseur de donnée
+* Interface Biosservice (From bioservice.weather import ipm)
+* Service appeler agroservice
+
+### Tâche
 
 ## Reunion du 09/09/2020: WP2 format metadata Json-LD
 
